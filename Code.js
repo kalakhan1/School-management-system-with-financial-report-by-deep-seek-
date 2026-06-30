@@ -1,5 +1,5 @@
 // ==================== GLOBAL CONFIGURATION ====================
-const SPREADSHEET_ID = '1U1iGLK968X-QlMLI4rDXMWxtruK_HCgNa-VaV_bd1No';
+const SPREADSHEET_ID = 'sheet id get from sheet url';
 const CACHE_PREFIX = 'SCHOOL_ERP_';
 const SESSION_EXPIRY = 30;
 
