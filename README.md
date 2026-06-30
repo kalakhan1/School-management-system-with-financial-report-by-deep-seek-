@@ -1,0 +1,1 @@
+# School-management-system-with-financial-report-by-deep-seek-
